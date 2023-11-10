@@ -1,0 +1,33 @@
+*{
+    padding:0;
+    margin:0;
+    box-sizing: border-box;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.container{
+    /* width: 85%; */
+    margin: auto;
+}
+
+.card-card{
+    border-radius: 10px;
+    box-shadow: 0 0 10px #ccc;
+}
+.card-image img{
+    width: 100%;
+}
+.heading{
+    padding: 10px;
+    font-size: 22px;
+}
+.para{
+    padding: 0  0 10px 10px;
+    color: #999;
+}
+.card-head{
+    font-size: 2.5rem;
+    
+}
+.title-row{
+    padding: 20px;
+}
